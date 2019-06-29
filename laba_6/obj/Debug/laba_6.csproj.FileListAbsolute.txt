@@ -1,0 +1,11 @@
+C:\Users\stiv\source\repos\laba_6\laba_6\bin\Debug\laba_6.exe.config
+C:\Users\stiv\source\repos\laba_6\laba_6\bin\Debug\laba_6.exe
+C:\Users\stiv\source\repos\laba_6\laba_6\bin\Debug\laba_6.pdb
+C:\Users\stiv\source\repos\laba_6\laba_6\obj\Debug\laba_6.csprojAssemblyReference.cache
+C:\Users\stiv\source\repos\laba_6\laba_6\obj\Debug\laba_6.Form1.resources
+C:\Users\stiv\source\repos\laba_6\laba_6\obj\Debug\laba_6.Properties.Resources.resources
+C:\Users\stiv\source\repos\laba_6\laba_6\obj\Debug\laba_6.csproj.GenerateResource.cache
+C:\Users\stiv\source\repos\laba_6\laba_6\obj\Debug\laba_6.csproj.CoreCompileInputs.cache
+C:\Users\stiv\source\repos\laba_6\laba_6\obj\Debug\laba_6.exe
+C:\Users\stiv\source\repos\laba_6\laba_6\obj\Debug\laba_6.pdb
+C:\Users\stiv\source\repos\laba_6\laba_6\obj\Debug\laba_6.Form2.resources
